@@ -1,0 +1,12 @@
+----------------------APPLICATION OVERVIEW----------------------
+DESCRIPTION
+Mobile application that takes a photo of a stack of poker chips and calculates the total value of the stack.
+
+REQUIREMENTS
+- Enter poker chip values
+- Take a photo
+- Process image
+- Count the number of chips for each type
+- Calculate total value of poker chip stack
+
+
